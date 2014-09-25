@@ -1,4 +1,4 @@
-var serviceURL = "http://www.mascotasmimosas.com/app/services/";
+var serviceURL = "http://www.infointelligent.com/appempleados/services/";
 
 var employees;
 
